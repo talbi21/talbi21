@@ -22,6 +22,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 
-
+[![](https://visitcount.itsvg.in/api?id=talbi21&label=Profile%20Views&color=2&icon=5&pretty=true)](https://visitcount.itsvg.in)
 ---
 [![](https://visitcount.itsvg.in/api?id=talbi21&label=Profile%20Views&icon=0&pretty=true)](https://visitcount.itsvg.in)
